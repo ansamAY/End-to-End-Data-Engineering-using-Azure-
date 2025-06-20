@@ -32,14 +32,14 @@ This project demonstrates a full data integration pipeline using **Azure Data Fa
 - Azure SQL Database
 - Azure Synapse Analytics
 
-### 📦 Datasets
+###  Datasets
 - `nycpayroll_2021.csv`
 - `EmpMaster.csv`
 - `TitleMaster.csv`
 - `AgencyMaster.csv`
 - Destination datasets in SQL DB and Synapse tables
 
-### 🔄 Dataflows
+###  Dataflows
 - Load 2021 payroll to SQL DB
 - Load historical data from lake
 - Aggregate & transform payroll data
@@ -75,5 +75,5 @@ This project demonstrates a full data integration pipeline using **Azure Data Fa
 
 ##  Authentication Notes
 
-Edit posrtgres file with host , user and password
+Edit the PostgreSQL file with host, user ,and password
 
